@@ -36,6 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kapos0/kapos0/output/snake.svg" alt="Snake animation" />
+
 
 ###
